@@ -1,0 +1,12 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "description": "serving static webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Omar Alghamdi",
+  "license": "ISC"
+}
